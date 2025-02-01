@@ -6,7 +6,7 @@ This Rails application allows users to leave comments and change the status of a
 
 1. **Clone the Repository:**
 
-   ```bash
+```bash
    git clone https://github.com/mansoor1234/project-conversation-history.git
    cd project-conversation-history
 ```
@@ -23,7 +23,7 @@ This Rails application allows users to leave comments and change the status of a
    rails db:migrate
    rails db:seed
 ```
-The ``` rails db:seed``` command will create a user with the following credentials:
+The ```bash rails db:seed``` command will create a user with the following credentials:
 - Email: test@example.com
 - Password: password
 
